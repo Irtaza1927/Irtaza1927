@@ -3,7 +3,7 @@ A learner in **Penetration Testing & Privacy-Focused Development**
 
 📧 Email Me 👉 ✉️ irtazazahid2701@gmail.com  
 
-🔭 **I’m currently working on:** **CyberNest** – a simple toolkit for metadata cleaning and privacy testing  
+🔭 **I’m currently working on:** **CyberNest** –  a lightweight toolkit for privacy testing and security utilities, featuring 20+ tools.  
 🌱 **I’m currently learning:** Penetration testing basics, ethical hacking, and digital forensics  
 👯 **I’m looking to collaborate on:** Beginner-friendly security projects and learning-focused pentesting tools  
 💬 **Ask me about:** Pen testing basics, privacy tools, and simple security concepts  
