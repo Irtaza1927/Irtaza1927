@@ -1,49 +1,80 @@
-# 💫 Hi 👋, I'm Irtaza Zahid  
-A learner in **Penetration Testing & Privacy-Focused Development**  
+# 💻 Hi 👋, I'm Irtaza Zahid
 
-📧 Email Me 👉 ✉️ irtazazahid2701@gmail.com  
+**Cybersecurity Student @ FAST-NUCEs | Penetration Tester | Digital Forensics Enthusiast**
 
-🔭 **I’m currently working on:** **CyberNest** –  a lightweight toolkit for privacy testing and security utilities, featuring 20+ tools.  
-🌱 **I’m currently learning:** Penetration testing basics, ethical hacking, and digital forensics  
-👯 **I’m looking to collaborate on:** Beginner-friendly security projects and learning-focused pentesting tools  
-💬 **Ask me about:** Pen testing basics, privacy tools, and simple security concepts  
-⚡ **Fun fact:** I enjoy breaking things to learn how they work!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irtazazahid)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irtazazahid2701@gmail.com)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-681c1c?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/kali2701)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white)](https://hackerone.com/kali1927)
+
+---
+
+## 🏆 Key Achievements
+- 🥇 **Winner** - Chamber of Ciphers @ NASCON 2025
+- 🔍 **VAPT Intern** @ PKCERT (Pakistan Computer Emergency Response Team)
+- 🧪 **Network Security RnD Intern** @ Protect Lab, FAST-NUCEs
+- 🐞 Active **Bug Bounty Hunter** on Bugcrowd & HackerOne
+- 📚 7th Semester @ FAST-NUCEs
+
+---
+
+## 🔭 Currently Working On
+
+### 🎓 Final Year Project (FYP)
 
 
+### 🐞 Bug Bounty Hunting
+Actively hunting vulnerabilities on:
+- **Bugcrowd** - Web application security testing (XSS, IDOR, CSRF, SQLi)
+- **HackerOne** - Responsible disclosure & responsible bug reporting
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irtazazahid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irtazazahid2701@gmail.com)
+---
 
-<!-- Snake Game Repo View -->
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **CyberNest** | Full-stack cybersecurity toolkit with 15+ security tools (IP lookup, port scanner, SSL checker, hash generator, JWT decoder) + AI-powered security advisor via Groq API | React, Python, Flask, Groq API |
+| **BitLocker Key Finder** | Digital forensics tool extracting BitLocker recovery keys from live RAM dumps. Successfully extracted **9 keys** from **34.8GB** memory dump | Python, Volatility3, WinPmem, ReportLab, Tkinter |
+| **Secure Chat System** | Client-server encrypted messaging with user authentication & session management | C++, Socket Programming, Encryption |
+| **Penetration Testing Lab** | Personal lab simulating real-world attack scenarios with custom scripts for scanning, enumeration & exploitation | Kali Linux, Metasploit, Burp Suite, Python, Bash |
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-# 📊 GitHub Stats:
+## 🛠️ Tech Stack
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irtaza1927&theme=dark&hide_border=false&include_all_commits=true&count_private=true)-->
+**Security Tools:**
+Burp Suite • Metasploit • Nmap • Wireshark • Kali Linux • OWASP ZAP • Volatility3 • FTK Imager • WinPmem
 
+**Languages:**
+Python • C++ • C# • Bash • JavaScript • SQL • AssemblyScript
+
+**Frameworks:**
+React • Flask • FastAPI • Node.js • Express.js • TailwindCSS
+
+**Platforms:**
+Bugcrowd • HackerOne • TryHackMe • Hack The Box • PicoCTF
+
+---
+
+## 📚 Certifications
+- CEH (v12) Practice Projects & Exam Simulators
+- Advanced Cybersecurity
+- System & Network Security
+- Windows Forensics with Belkasoft
+- Introduction to Dark Web, Anonymity & Cryptocurrency (EC-Council)
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Irtaza1927&theme=dark&hide_border=false)
 
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irtaza1927&theme=dark&hide_border=false&layout=compact)-->
-
-<!-- ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Irtaza1927&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Irtaza1927&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Irtaza1927&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
